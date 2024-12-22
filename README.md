@@ -44,4 +44,4 @@ Woostify is released under the GPL license. Feel free to use, modify, and distri
 
 ### Author
 **Pravin Kumar**  
-Contact: 7250435556  
+Contact: XXXXXXXXX
